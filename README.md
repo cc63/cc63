@@ -12,8 +12,6 @@
   </picture>
 </div>
 
-## Tech Stack
-
 ```cpp
 #include <iostream>
 
@@ -26,7 +24,3 @@ int main() {
 ```python
 print("Hello, World!")
 ```
-
-<!--
-💡 Thanks for visiting my profile! 
--->
