@@ -13,6 +13,6 @@
 </div>
 
 ```python
-print("Begin simply.")
-print("End gracefully.")
+print("Simply.")
+print("Less is more.")
 ```
